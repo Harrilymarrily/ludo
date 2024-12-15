@@ -1,0 +1,19 @@
+862,542
+927,542
+
+blue pieces
+START
+5 across
+6 Down
+2 Across
+6 up
+6 across
+2 up 
+6 across
+6 up
+2 across 
+6 down
+6 across
+1 down
+6 across
+END
